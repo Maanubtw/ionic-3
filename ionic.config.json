@@ -1,0 +1,7 @@
+{
+  "name": "appTKZ",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
